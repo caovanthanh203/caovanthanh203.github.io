@@ -4,6 +4,8 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
+[Play game flappy bird](./flappy-bird/index.html).
+
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.

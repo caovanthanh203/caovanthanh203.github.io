@@ -1,0 +1,181 @@
+
+atom.png
+size: 1612,1172
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+00
+  rotate: false
+  xy: 646, 704
+  size: 320, 232
+  orig: 320, 232
+  offset: 0, 0
+  index: -1
+01
+  rotate: false
+  xy: 1290, 236
+  size: 320, 232
+  orig: 320, 232
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 1290, 938
+  size: 320, 232
+  orig: 320, 232
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 324, 704
+  size: 320, 232
+  orig: 320, 232
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 646, 2
+  size: 320, 232
+  orig: 320, 232
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 2, 2
+  size: 320, 232
+  orig: 320, 232
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 2, 938
+  size: 320, 232
+  orig: 320, 232
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 968, 470
+  size: 320, 232
+  orig: 320, 232
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 2, 236
+  size: 320, 232
+  orig: 320, 232
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 968, 2
+  size: 320, 232
+  orig: 320, 232
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 646, 470
+  size: 320, 232
+  orig: 320, 232
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 324, 938
+  size: 320, 232
+  orig: 320, 232
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 1290, 704
+  size: 320, 232
+  orig: 320, 232
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 968, 938
+  size: 320, 232
+  orig: 320, 232
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 1290, 2
+  size: 320, 232
+  orig: 320, 232
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 324, 2
+  size: 320, 232
+  orig: 320, 232
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 646, 938
+  size: 320, 232
+  orig: 320, 232
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 968, 236
+  size: 320, 232
+  orig: 320, 232
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 324, 236
+  size: 320, 232
+  orig: 320, 232
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 2, 704
+  size: 320, 232
+  orig: 320, 232
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 646, 236
+  size: 320, 232
+  orig: 320, 232
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 324, 470
+  size: 320, 232
+  orig: 320, 232
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 1290, 470
+  size: 320, 232
+  orig: 320, 232
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 968, 704
+  size: 320, 232
+  orig: 320, 232
+  offset: 0, 0
+  index: -1
+24
+  rotate: false
+  xy: 2, 470
+  size: 320, 232
+  orig: 320, 232
+  offset: 0, 0
+  index: -1
