@@ -5,6 +5,7 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Play game flappy bird](./flappy-bird/index.html).
+[Play game simple](./simple-game/index.html).
 
 [Link to another page](./another-page.html).
 
