@@ -7,6 +7,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 [Play game flappy bird](./flappy-bird/index.html).
 [Play game simple](./simple-game/index.html).
 
+# Angular
+[Learn 20240413](./angular/learn-20240413/index.html).
+
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
